@@ -1,16 +1,25 @@
-## Hi there 👋
+# Eduardo Giasson 
 
-<!--
-**EduardoGiasson/EduardoGiasson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é Eduardo Giasson e sou estudante de Sistemas de Informação. Tenho paixão por tecnologia e estou sempre buscando aprender mais sobre desenvolvimento de software, bancos de dados e redes de computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Educação
+
+- **Curso:** Sistemas de Informação
+- **Instituição:** [Unimater]
+
+## Habilidades
+
+- **Linguagens de Programação:** Python, Java
+- **Desenvolvimento Web:** HTML, CSS, JavaScript
+- **Banco de Dados:** SQL, MySQL
+- **Ferramentas e Tecnologias:** Git, GitHub, Docker
+- 
+## Contato
+
+- **Email:** [eduardogiasson.correa@gmail.com]
+- **GitHub:** [EduardoGiasson]
+
+
+Obrigado por visitar meu portfólio! Fique à vontade para explorar meus projetos e entrar em contato se tiver alguma dúvida ou quiser colaborar.
