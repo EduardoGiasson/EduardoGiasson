@@ -11,10 +11,7 @@ Olá! Meu nome é Eduardo Giasson e sou estudante de Sistemas de Informação. T
 
 ## Habilidades
 
-- **Linguagens de Programação:** Python, Java
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Banco de Dados:** SQL, MySQL
-- **Ferramentas e Tecnologias:** Git, GitHub, Docker
+- **Linguagens de Programação:** Java
 - 
 ## Contato
 
