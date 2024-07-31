@@ -12,7 +12,6 @@ Olá! Meu nome é Eduardo Giasson e sou estudante de Sistemas de Informação. T
 ## Habilidades
 
 - **Linguagens de Programação:** Java
-- 
 ## Contato
 
 - **Email:** [eduardogiasson.correa@gmail.com]
